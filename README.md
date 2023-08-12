@@ -1,4 +1,4 @@
-## contador-regressivo-casorio
+## contador-regressivo
 Esse projeto além de ser muito especial por ser a contagem regressiva do meu casamento é um dos que mais me fizeram massificar a lógica e a sintaxe da linguagem.  Utilizei HMTL, CSS e Javascript puro para sua finalização.
 
  ## Tecnologias Utilizadas
